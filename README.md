@@ -1,6 +1,6 @@
-# OSI-model-details APSTNDP
+# OSI-model-details 
 Here’s an expanded explanation of the **OSI Model** with additional examples and more details to help you fully grasp each layer:  
-
+A > P > S > T > N > D > P
 ---
 
 ### **OSI Model (Open Systems Interconnection)**  
