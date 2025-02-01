@@ -2,7 +2,8 @@
 Here’s an expanded explanation of the **OSI Model** with additional examples and more details to help you fully grasp each layer:  
 
 ---
-A > P > S > T > N > D > P
+## A > P > S > T > N > D > P
+---
 ### **OSI Model (Open Systems Interconnection)**  
 The OSI Model explains how devices communicate over a network by organizing the process into **seven layers**. Each layer has its own tasks and interacts with the ones above and below it. Below is a detailed breakdown, enriched with real-world examples for clarity.
 
