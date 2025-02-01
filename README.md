@@ -1,4 +1,4 @@
-# OSI-model-details
+# OSI-model-details APSTNDP
 Here’s an expanded explanation of the **OSI Model** with additional examples and more details to help you fully grasp each layer:  
 
 ---
